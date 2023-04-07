@@ -30,15 +30,17 @@
 - Pathway to Production
     * [Overview](ptp/overview.md)
         * [Vision](ptp/vision.md)
-        * Scaling, Replicability, and Cross-Vertical Compatability
+        * [Scaling & Replicability](ptp/scaling.md)
     * Key Gaps of Prototype to Develop
         * Administrative functionality
-        * Two-Factor Authentication
-        * PROPack HL7 FHIR Support
+        * [MFA & Adaptive Authentication](ptp/mfa_adaptive.md)
+        * [PROPack HL7 FHIR Support](ptp/hl7.md)
+        * [Computer Adaptive Testing](ptp/cat.md)
         * Modular Theming/Branding System
         * Supporting Third Party Scoring Interfaces
         * Increasing Equity through Expanded Access Channels
         * Increasing Export Functionality
+        * Integrations
         * Security Considerations
             * Environment condusive to HIPAA
             * Audit & Traceibility
@@ -47,7 +49,6 @@
     * Operating Models
         * Department Managed
         * SaaS
-    * Community Collaboration
 - Appendix
     *  Definition of Terms
 
