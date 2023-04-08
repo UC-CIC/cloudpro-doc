@@ -32,23 +32,26 @@
         * [Vision](ptp/vision.md)
         * [Scaling & Replicability](ptp/scaling.md)
     * Key Gaps of Prototype to Develop
-        * Administrative functionality
+        * [Administrative functionality](ptp/admin.md)
         * [MFA & Adaptive Authentication](ptp/mfa_adaptive.md)
         * [PROPack HL7 FHIR Support](ptp/hl7.md)
         * [Computer Adaptive Testing](ptp/cat.md)
-        * Modular Theming/Branding System
-        * Supporting Third Party Scoring Interfaces
-        * Increasing Equity through Expanded Access Channels
-        * Increasing Export Functionality
-        * Integrations
-        * Security Considerations
+        * [Modular Theming/Branding System](ptp/theming.md)
+        * [Modular Export System](ptp/export.md)
+        * [Modular Questionnaire/Scoring Interface System](ptp/interface.md)
+        * [Equity Considerations](ptp/equity.md)
+        * [Integrations Considerations](ptp/integrations.md)
+        * [Edge Case Considerations](ptp/edge.md)
+        * [Security Considerations](ptp/security.md)
             * Environment condusive to HIPAA
             * Audit & Traceibility
     * [Potential MVP Implementation Plan](ptp/mvp_implementation.md)
     * [Potential Staffing Structure](ptp/staffing.md)
+    * [Potential Additional MVP Requirements](ptp/mvp_req.md)
+    * [Potential Additional MVP Foundational User Stories](ptp/mvp_stories.md)
     * Operating Models
         * Department Managed
-        * SaaS
+        * [SaaS](ptp/saas-model.md)
 - Appendix
     *  Definition of Terms
 

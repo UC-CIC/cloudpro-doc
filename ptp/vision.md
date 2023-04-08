@@ -16,3 +16,5 @@ The three tenants of a prototype are as follows:
 CloudPRO envisions a software ecosystem that allows for the open source community to develop & enhance core product functionality, as well as collaborate on development of PROPacks to support various studies. Although medical departments have the flexibility to deploy and manage the software through their own IT resources, CloudPRO is well suited to be deployed in a SaaS based structure.
 
 The "Pathway to Production" documentation aims to explore areas that would be necessary for a production implementation of this prototype as well as dive into some of the gaps and areas that the CloudPRO prototype did not explore.
+
+Any production implementation will require a discovery and planning period either with internal staff or implementation partners to fully define goals and requirements of a productionalized release of CloudPRO.
