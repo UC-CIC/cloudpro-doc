@@ -40,17 +40,18 @@
         * [Modular Export System](ptp/export.md)
         * [Modular Questionnaire/Scoring Interface System](ptp/interface.md)
         * [Equity Considerations](ptp/equity.md)
-        * [Integrations Considerations](ptp/integrations.md)
+        * [Other Integrations Considerations](ptp/integrations.md)
         * [Edge Case Considerations](ptp/edge.md)
         * [Security Considerations](ptp/security.md)
-            * Environment condusive to HIPAA
-            * Audit & Traceibility
+            * [Environment condusive to HIPAA](ptp/security.md#hipaa)
+            * [Audit & Traceability](ptp/security.md#audit)
+            * [Disaster Recovery](ptp/security.md#dr)
     * [Potential MVP Implementation Plan](ptp/mvp_implementation.md)
     * [Potential Staffing Structure](ptp/staffing.md)
     * [Potential Additional MVP Requirements](ptp/mvp_req.md)
     * [Potential Additional MVP Foundational User Stories](ptp/mvp_stories.md)
     * Operating Models
-        * Department Managed
+        * [Department Managed](ptp/dpt-model.md)
         * [SaaS](ptp/saas-model.md)
 - Appendix
     *  Definition of Terms
